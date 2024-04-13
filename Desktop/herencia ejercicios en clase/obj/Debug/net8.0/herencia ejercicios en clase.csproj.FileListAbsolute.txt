@@ -1,0 +1,14 @@
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\herencia ejercicios en clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\herencia ejercicios en clase.AssemblyInfoInputs.cache
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\herencia ejercicios en clase.AssemblyInfo.cs
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\herencia ejercicios en clase.csproj.CoreCompileInputs.cache
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\bin\Debug\net8.0\herencia ejercicios en clase.exe
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\bin\Debug\net8.0\herencia ejercicios en clase.deps.json
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\bin\Debug\net8.0\herencia ejercicios en clase.runtimeconfig.json
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\bin\Debug\net8.0\herencia ejercicios en clase.dll
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\bin\Debug\net8.0\herencia ejercicios en clase.pdb
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\herencia ejercicios en clase.dll
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\refint\herencia ejercicios en clase.dll
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\herencia ejercicios en clase.pdb
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\herencia ejercicios en clase.genruntimeconfig.cache
+C:\Users\BYRON !\Desktop\herencia ejercicios en clase\obj\Debug\net8.0\ref\herencia ejercicios en clase.dll

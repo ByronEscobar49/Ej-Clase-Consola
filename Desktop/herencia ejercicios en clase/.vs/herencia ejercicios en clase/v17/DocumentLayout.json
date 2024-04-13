@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|c:\\users\\byron !\\desktop\\herencia ejercicios en clase\\clasehija\\xbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|solutionrelative:clasehija\\xbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|c:\\users\\byron !\\desktop\\herencia ejercicios en clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|c:\\users\\byron !\\desktop\\herencia ejercicios en clase\\clasehija\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|solutionrelative:clasehija\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|c:\\users\\byron !\\desktop\\herencia ejercicios en clase\\clasepadre\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|solutionrelative:clasepadre\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|c:\\users\\byron !\\desktop\\herencia ejercicios en clase\\clasehija\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321F748-30D9-4703-BD14-6D071CBA0B67}|herencia ejercicios en clase.csproj|solutionrelative:clasehija\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Xbox.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Clasehija\\Xbox.cs",
+              "RelativeDocumentMoniker": "Clasehija\\Xbox.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Clasehija\\Xbox.cs",
+              "RelativeToolTip": "Clasehija\\Xbox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:54:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayStation.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Clasehija\\PlayStation.cs",
+              "RelativeDocumentMoniker": "Clasehija\\PlayStation.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Clasehija\\PlayStation.cs",
+              "RelativeToolTip": "Clasehija\\PlayStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:40:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nintendo.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Clasehija\\Nintendo.cs",
+              "RelativeDocumentMoniker": "Clasehija\\Nintendo.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Clasehija\\Nintendo.cs",
+              "RelativeToolTip": "Clasehija\\Nintendo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:26:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\ClasePadre\\Class1.cs",
+              "RelativeDocumentMoniker": "ClasePadre\\Class1.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\ClasePadre\\Class1.cs",
+              "RelativeToolTip": "ClasePadre\\Class1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:12:36.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\herencia ejercicios en clase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:09:11.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
